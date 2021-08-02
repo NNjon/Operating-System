@@ -5,3 +5,6 @@ Operating system will hepls the users to browser more secure.
 Operating system has file management
 Operating system has memory management
 Operating system keeps tracks all devices
+Operating system function controls stotage files
+Operating system function is a software which performs all the basic tasks
+Operating system function also keeps tracks of all devices
