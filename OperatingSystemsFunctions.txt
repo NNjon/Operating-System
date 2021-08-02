@@ -1,0 +1,4 @@
+One of important function of an operating system is control system performance
+Operating system manage the input and output data
+Operating system manages the memories (ram)
+Operating system will hepls the users to browser more secure.
